@@ -1,0 +1,490 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders and instructions from the lords of the Kings Majesties Privie Councell, for the commissioners appointed to treat for the surrender of the city of Oxford, to the Parliament. With severall letters and papers that passed between Sir Thomas Fairfax, and Sir Thomas Glemham, about the same. Being examined by the originall papers; these are appointed to be printed and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83934</idno>
+            <idno type="STC">Wing E2914</idno>
+            <idno type="STC">Thomason E338_2</idno>
+            <idno type="STC">ESTC R200838</idno>
+            <idno type="EEBO-CITATION">99861471</idno>
+            <idno type="PROQUEST">99861471</idno>
+            <idno type="VID">159709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159709)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E338[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders and instructions from the lords of the Kings Majesties Privie Councell, for the commissioners appointed to treat for the surrender of the city of Oxford, to the Parliament. With severall letters and papers that passed between Sir Thomas Fairfax, and Sir Thomas Glemham, about the same. Being examined by the originall papers; these are appointed to be printed and published according to order of Parliament.</title>
+                  <author>Fairfax, Thomas, Baron, 1612-1671.</author>
+                  <author>Glemham, Thomas, Sir, d. 1649.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Walbancke,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>May 23. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>Oxford (England) --  History --  Siege, 1646 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159709:1" rendition="simple:additions"/>
+            <p>ORDER'S
+AND
+INSTRVCTIONS
+FROM
+The Lords of the Kings Majeſties
+Privie Councell; for the Commiſſioners
+appointed to Treat for the ſurrender of the City of
+OXFORD, to the Parliament.</p>
+            <p>WITH
+Severall Letters and Papers that paſſed
+between Sir THOMAS FAIRFAX, and Sir THOMAS
+GLEMHAM, about the ſame.</p>
+            <p>Being examined by the originall Papers;
+theſe are appointed to be printed, and
+are publiſhed according to Order of
+<hi>Parliament.</hi>
+            </p>
+            <p>LONDON:
+<hi>Printed for</hi> Matthew Walbancke, May 23. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty_documents">
+            <pb facs="tcp:159709:2"/>
+            <pb n="1" facs="tcp:159709:2"/>
+            <head>The Copies of the Papers of the Treaty
+at Marſton, concerning
+Oxford.</head>
+            <div type="letter">
+               <head>The Summons ſent into Oxford.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I do by theſe ſummon you to deliver up the City of <hi>Oxford</hi>
+into my hands, for the uſe of the Parliament. I very much deſire
+the preſervation of that place (ſo famous for Learning) from ruine,
+which inevitably is like to fall upon it, except you concurre. You may
+have honourable terms for your ſelf, and all within that Gariſon, if
+you ſeaſonably accept thereof. I deſire the Anſwer this day, and re<g ref="char:EOLhyphen"/>main</p>
+               <closer>
+                  <signed>Your Servant,
+THO: FAIRFAX.</signed>
+                  <date>May 11. 1646.</date>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Governours Anſwer.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I have received your Letter, ſummoning me to ſurrender
+the City, which was given me in trust for His Majeſties uſe; but
+in reſpect there are many perſons of great eminency, I must deſire you
+to receive for anſwer, a requeſt; That you will be pleaſed to ſend a
+ſafe-condvct for Sir <hi>John Mounſon</hi> and Mr. <hi>Philip Warwick</hi> to
+repair unto you, at ſuch a place and time as you ſhall appoint, by whom
+you ſhall underſtand what for preſent is deſired. I remain,</p>
+               <closer>
+                  <signed>Your humble Servant,
+THO: GLEMHAM.</signed>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>On Friday the 15. of <hi>May,</hi> 1646. Sir <hi>Thomas Glenham</hi> (by
+the directions of the Lords and others of His Majeſties Privie-Councell
+now in Oxford) ſent a Letter out to his Excellency Sir
+<pb n="2" facs="tcp:159709:3"/>
+                  <hi>Thomas Fairfax,</hi> certifying his conſent to treate for the deliver<g ref="char:EOLhyphen"/>ing
+up of <hi>Oxford</hi> to the Parliament.</p>
+            </div>
+            <div type="letter">
+               <head>For Sir Tho. Fairfax Generall of the Parliaments.
+Army.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>JT is here reſolved to treate with you, or with whom you
+ſhall appoint for a fair, peaceable, and honourable Ac<g ref="char:EOLhyphen"/>commodation:
+if therefore you ſhall be pleaſed to ſend a ſafe Conduct
+for ſuch perſons as ſhall be named for ſuch Commiſſioners, and ap<g ref="char:EOLhyphen"/>point
+the place, the names ſhall be ſent you to morrow, ſo as the Trea<g ref="char:EOLhyphen"/>ty
+may begin on Monday next, Sir,</p>
+               <closer>
+                  <signed>Your Servant. <hi>Tho. Glemhan.</hi>
+                  </signed>
+                  <dateline>Oxford <date>May 15. 1646.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>To this Letter from Sir <hi>Thomas Glemhan,</hi> His Excellency Sir
+<hi>Thomas Fairfax;</hi> (by the advice of a Councell of warre) return<g ref="char:EOLhyphen"/>ed
+Anſwer the ſame day in to <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>For Sir Thomas Glemham Knight, Governour of Oxford.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have now received your Anſwer to my Summons, and
+thinke Mr. <hi>Crookes</hi> houſe in <hi>Marſton</hi> will be a conve<g ref="char:EOLhyphen"/>nient
+place for the Commiſſioners intruſted on both ſides to treate in:
+I am contented that the Treaty begin on Munday morning next by
+nine of the Clock if you pleaſe to ſend me the names of your Com<g ref="char:EOLhyphen"/>miſſioners,
+and their Qualities, I ſhall ſend you a ſafe conduct for
+them, together with the names and Qualities of my own Commiſſio<g ref="char:EOLhyphen"/>ners,
+I remaine, Your Servant.</p>
+               <closer>
+                  <signed>THO: FAIRFAX.</signed>
+                  <date>May 15. 1646.</date>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>This Letter being delivered to Sir <hi>Thomas Glemhan</hi> Gover<g ref="char:EOLhyphen"/>nour
+of <hi>Oxford,</hi> he acquainted the Lords therewith, who ſat in
+Councell to debate the ſame, all day on Saturday the 16. of May
+1646, and many great debates were amongſt them, ſome deſi<g ref="char:EOLhyphen"/>ring
+that the Treaty might be delayed as long as could be; others
+fearing that might be of ill conſequence; rather thinking the
+preſent opportunity beſt; but many preſſed to have the <hi>King</hi>
+ſent to before any thing was concluded; but the next day <hi>viz.</hi>
+Sunday May 17. Sir <hi>Thomas Glemham</hi> returned Anſwer to Sir
+<hi>Thomas Fairfax.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:159709:3"/>
+               <head>For Sir Tho. Fairfax Generall of the Parliaments.
+Army.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe place and time mentioned in your Letter for the Trea<g ref="char:EOLhyphen"/>ty,
+is accepted, and herewithall I ſend you a Liſt of the
+names and quality of thoſe who are deputed to Treate with ſuch as
+you ſhall appoint, and according you may be pleaſed to ſend the ſafe
+Conduct deſired, together with the names and quality of your Com<g ref="char:EOLhyphen"/>miſſioners,
+Your Servant,</p>
+               <closer>
+                  <signed>Tho. Glemham,</signed>
+                  <dateline>Oxford <date>May 17. 1646.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="list_of_names">
+               <head>Commiſſioners names for the City of.
+Oxford.</head>
+               <list>
+                  <item>Sir <hi>John Mounſon</hi> Kt. and Baronet.</item>
+                  <item>
+                     <hi>Sir</hi> John Heydon.</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Gardiner.</item>
+                  <item>
+                     <hi>Sir</hi> Geo. Benyon.</item>
+                  <item>
+                     <hi>Sir.</hi> Richard Willis.</item>
+                  <item>
+                     <hi>Sir</hi> Stephen Hawkins.</item>
+                  <item>Coll. <hi>Goſnold.</hi>
+                  </item>
+                  <item>John Dutton.</item>
+                  <item>Doctor <hi>Zouch.</hi>
+                  </item>
+                  <item>Tho. Chicheley <hi>Eſquire.</hi>
+                  </item>
+                  <item>Collonel <hi>Tillyer.</hi>
+                  </item>
+                  <item>Jeffery Palmer.</item>
+                  <item>Philip Warwick.</item>
+                  <item>
+                     <hi>Capt.</hi> Robert. Meade.</item>
+               </list>
+            </div>
+            <div type="commentary">
+               <p>The Generalls Excellency having received this Letter and Liſt
+from <hi>Oxford</hi> did immediately call a Councell of Warre the ſame
+day to conſider what Commiſſioners to chooſe for the Parlia<g ref="char:EOLhyphen"/>ment,
+who rather would have had a fewer number of Commiſſi<g ref="char:EOLhyphen"/>oners,
+that ſo the Treaty might be the ſhorter, and nominated
+only 10. whoſe names His Excellency ſent into <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div type="list_of_names">
+               <head>Commiſſioners names for the Parliament.</head>
+               <list>
+                  <item>Lieutenant Gen <hi>Hammond.</hi>
+                  </item>
+                  <item>Commiſſary Gen. <hi>Ireton.</hi>
+                  </item>
+                  <item>Collonel <hi>Rich.</hi>
+                  </item>
+                  <item>Collonel <hi>Harley.</hi>
+                  </item>
+                  <item>Collonel. <hi>Lambert.</hi>
+                  </item>
+                  <item>Major <hi>Desborough.</hi>
+                  </item>
+                  <item>Mr. <hi>Herbert.</hi>
+                  </item>
+                  <item>Major <hi>Harriſon.</hi>
+                  </item>
+                  <item>Scoutmaſter Gen. <hi>Watſon.</hi>
+                  </item>
+                  <item>Mr. <hi>Waller.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="commentary">
+               <p>The Lords in <hi>Oxford</hi> would not by any meanes conſent to Treate
+by leſſe then the former number, and conſulted about ſending of
+a Letter to Sir <hi>Thomas Fairfax</hi> about it, and accordingly, on
+Munday the 18. of May 1646. ſent out this Letter to His Ex<g ref="char:EOLhyphen"/>cellency.</p>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:159709:4"/>
+               <head>For Sir Thomas Fairfax, Generall of the Parliaments
+Army.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>BY reaſon the Names of your Commiſſioners are not ſent, I deſire
+your excuſe of not ſending our Commiſſioners this morning, and
+ſhall expect the compleat numbers from you by three a clock, and at
+four our Commiſſioners ſhall be with you.</p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>Your Servant;
+THO: GLEMHAM.</signed>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>The Lords alſo deſiring that a Secretary might be preſent at the
+Treaty from <hi>Oxford,</hi> both for to take accompt of ſuch paſſages as
+hapned in the Treaty, and from the Commiſſioners to give an ac<g ref="char:EOLhyphen"/>compt
+to the Lords, as alſo to acquaint the Commiſſioners with
+the mindes of the Lords from time to time; concluded that a Let<g ref="char:EOLhyphen"/>ter
+ſhould be ſent to Sir <hi>Thomas</hi> Fairfax, to grant a ſafe conduct
+for Mr. <hi>Daviſon</hi> for that purpoſe.</p>
+            </div>
+            <div type="letter">
+               <head>For Sir Thomas Fairfax, Generall of the Parliaments
+Army.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>IT hath been the uſe of other Treaties, that a Secretary of either
+party ſhould be preſent at the Treaty, for the better expediting the
+buſineſſe thereof: I deſire therefore your Paſſe and Safe-conduct for
+my Secretary (whoſe name is <hi>Daviſon</hi>) to be preſent there, and that
+he may have liberty at any time, with a Trumpet to paſſe to, and
+from <hi>Marſton,</hi> during this Treaty, as occaſion ſhall require.</p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>Your humble Servant;
+THO: GLEMHAM.</signed>
+                  <dateline>Oxon <date>May 18. 1646.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>The <hi>Oxford</hi> Lords alſo conſulted about Inſtructions to be
+drawn up for their Commiſſioners to treat by.</p>
+            </div>
+            <div type="instructions">
+               <head>The Inſtructions for the Oxford Commiſſioners.</head>
+               <p>THe Lords and others of His Majeſties moſt Honourable Pri<g ref="char:EOLhyphen"/>vie
+Councell, and Sir <hi>Thomas Glemham</hi> Knight, Governour
+<pb n="5" facs="tcp:159709:4"/>
+of the Gariſon of <hi>Oxon;</hi> do hereby require and authorize you
+Sir <hi>Thomas Gardner</hi> Knight His Majeſties Solicitor, Sir <hi>John
+Mounſon</hi> Knight and Baronet, Sir <hi>John Heyden</hi> Knight, Sir <hi>Ri<g ref="char:EOLhyphen"/>chard
+Willis</hi> Knight and Baronet, Sir <hi>George Binion</hi> Knight, Sir
+<hi>Stephen Hawkins</hi> Knight, Collonel <hi>Goſnold, Jeffery Palmor, Phi<g ref="char:EOLhyphen"/>lip
+Warwick</hi> Eſquire, Captain <hi>Robert Meade,</hi> or any two or
+more of you, to repair to the Village of <hi>Marſton,</hi> in this County
+of <hi>Oxford,</hi> this preſent Munday the 18. of May, and there to meet
+and treat for us and in our Names, with Sir <hi>Thomas Fairfax</hi>
+Knight, <hi>Generall</hi> of the Forces now before <hi>Oxford,</hi> or with ſuch
+perſons as he ſhall appoint, upon his Summons for the ſurrender
+of this Gariſon of <hi>Oxon,</hi> and concerning the rendring thereof,
+upon a fair Accommodation, with the ſafety of the Univerſity
+and City of <hi>Oxon,</hi> and all that are in the ſame: And to this end,
+you are required and authorized to compound and deliver ſuch
+Articles and demands, as now are, or hereafter ſhall be given un<g ref="char:EOLhyphen"/>to
+you, and debate and treat upon the ſame, for obtaining a full
+conſent thereunto, and eſtabliſhment thereof,: And further,
+you are to continue the ſaid Treaty and debate, from time to time
+upon ſuch further directions and inſtructions, as ſhall be thought
+ſitting upon the ſeverall reports that you ſhall make unto us,
+and your proceedings and Progreſſe of the ſaid Treaty.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Richard Lane</hi> Cuſtos ſig.</item>
+                        <item>Cottington.</item>
+                        <item>Hartford.</item>
+                        <item>Dorſet.</item>
+                        <item>Chicheſter.</item>
+                        <item>Southampton.</item>
+                        <item>Seymor.</item>
+                        <item>E. Nicholas.</item>
+                        <item>Thomas Glemham,</item>
+                        <item>Governour.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>Sir <hi>Thomas Fairfax</hi> excepted againſt Sir <hi>George Binion,</hi> and ſo
+they were to treat 13. on a ſide; and his <hi>Excellency</hi> ſent a Letter
+to Sir <hi>Thomas Glemham</hi> as followeth.</p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have ſent you the Names of the reſt of my Commiſſioners, and
+a Safe-conduct for Mr. <hi>Daviſon</hi> your Secretary, and have gi<g ref="char:EOLhyphen"/>ven
+power to my Commiſſioners to grant him a Paſſe, with a Trum<g ref="char:EOLhyphen"/>pet
+to go as often as occaſion ſhall be, betwixt <hi>Oxford</hi> and Marſton,
+<pb n="6" facs="tcp:159709:5"/>
+during the <hi>Treaty</hi> my <hi>Commiſſioners</hi> ſhall be ready at the power
+appointed in the afternoone: I remaine,</p>
+               <closer>
+                  <signed>Your Servant.
+THOMAS FAIRFAX.</signed>
+                  <date>May 18. 1646.</date>
+               </closer>
+            </div>
+            <div type="commentary">
+               <p>The Commſſioners added.
+<list>
+                     <item>Collonel Boulſtred.</item>
+                     <item>John Mills Eſq. Judge Advocate.</item>
+                     <item>Mr. Hales.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="letter">
+               <head>The Copy of a Letter from the Generalls head quarters at
+Haddington.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe Commiſſioners met at <hi>Marſton</hi> Munday May the 18.
+1646. to treate, and made an entrance; but it was late that
+afternoone before they met, ſo that much was not done,
+and yeſterday they came to treate; I have ſent you here incloſed,
+the Copyes of ſeverall papers concerning the Treaty; there is
+ſuch lumbering at <hi>Oxford</hi> that their own Commiſſioners know
+not how to pleaſe all, and you may ſee by their own inſtructions
+how they are bound up, that they can not worke on their own
+grounds neither, they are to meete us againe this day, but God
+knowes when we ſhall have <hi>Oxford</hi> by Treaty if they come on
+no better then hitherto they have ſeemed; but however the Ge<g ref="char:EOLhyphen"/>nerall
+goes on to be in a readineſſe to take it another way; for
+we do not deſire to drall here but do the work we are ſent about,
+Sir I am</p>
+               <closer>
+                  <signed>Your Servant
+N. T.</signed>
+                  <dateline>Marſton <date>the 20.
+of May 1646.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
